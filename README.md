@@ -2,19 +2,19 @@
 
 # 安裝方法
 * STEP 1:建立專案.
- ** create-react-app react_space_invaders
+  * create-react-app react_space_invaders
 
 * STEP 2:進入目錄
- * cd react_space_invaders
+  * cd react_space_invaders
 
 * STEP 3:安裝套件.
- * npm install react-konva konva --save
- * npm install --save react-howler
+  * npm install react-konva konva --save
+  * npm install --save react-howler
  
 * STEP 4:將本下載檔案解壓覆蓋掉原本的目錄
 
 * STEP 5:執行
- * npm start
+  * npm start
 
 
 # 使用網路資源
