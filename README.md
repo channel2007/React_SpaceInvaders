@@ -19,8 +19,8 @@
     * 螢幕自動適應處理
 
 # 遊玩影片
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE影片ID放在這裡" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE影片ID放在這裡/0.jpg" 
-alt="圖片 ALT 文字放在這裡" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE影片ID放在這裡" target="_blank"><img src="https://github.com/channel2007/React_SpaceInvaders/blob/master/public/images/screen_1.jpg" 
+alt="播放影片" width="800" height="600" border="10" /></a>
 
 # 安裝方法
 * STEP 1:建立專案.
