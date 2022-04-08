@@ -1,3 +1,7 @@
+# 遊玩影片
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE影片ID放在這裡" target="_blank"><img src="https://github.com/channel2007/React_SpaceInvaders/blob/master/public/images/screen_1.jpg" 
+alt="播放影片" width="640" height="480" border="10" /></a>
+
 # 前言
   趁連假給自己定了一個目標，就是學一套網頁框架，google了一下大概就三個比較多人用，分別為angular、react、vue，沒想太多直接選react，依照之前學程式語言的經驗，習慣以實作一款遊戲來當作入門練習，二話不說選我最熟悉的"太空侵略者"，以下大致列一下每天的進度：
 * 第一天：
@@ -17,10 +21,6 @@
     * 背景捲動
     * 最高分數處理
     * 螢幕自動適應處理
-
-# 遊玩影片
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE影片ID放在這裡" target="_blank"><img src="https://github.com/channel2007/React_SpaceInvaders/blob/master/public/images/screen_1.jpg" 
-alt="播放影片" width="800" height="600" border="10" /></a>
 
 # 安裝方法
 * STEP 1:建立專案.
