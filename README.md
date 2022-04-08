@@ -2,7 +2,7 @@
 
 # 安裝方法
 * STEP 1:建立專案.
- * create-react-app react_space_invaders
+ ** create-react-app react_space_invaders
 
 * STEP 2:進入目錄
  * cd react_space_invaders
