@@ -1,5 +1,5 @@
 # 遊戲影片
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE影片ID放在這裡" target="_blank"><img src="https://github.com/channel2007/React_SpaceInvaders/blob/master/public/images/screen_1.jpg" 
+<a href="https://youtu.be/MrzM8fdGfKw" target="_blank"><img src="https://github.com/channel2007/React_SpaceInvaders/blob/master/public/images/screen_1.jpg" 
 alt="播放影片" width="640" height="480" border="10" /></a>
 
 # 前言
