@@ -52,4 +52,4 @@ alt="播放影片" width="640" height="480" border="10" /></a>
 * 僅供學術研究用，請勿使用在商業用途上
 
 # 官方粉絲團
-[無限升級](https://www.facebook.com/unlimited.upgrade/posts/2840132506240869?notif_id=1617421138749926&notif_t=page_post_reaction&ref=notif)
+[無限升級](https://www.facebook.com/unlimited.upgrade)
