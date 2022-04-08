@@ -18,6 +18,10 @@
     * 最高分數處理
     * 螢幕自動適應處理
 
+# 遊玩影片
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE影片ID放在這裡" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE影片ID放在這裡/0.jpg" 
+alt="圖片 ALT 文字放在這裡" width="240" height="180" border="10" /></a>
+
 # 安裝方法
 * STEP 1:建立專案.
   * create-react-app react_space_invaders
@@ -38,7 +42,7 @@
 * Enter、空白鍵：開始遊戲
 * 左右鍵：左右移動角色
 * M鍵：音樂、音效開關
- 
+  
 # 使用網路資源
 * [角色](https://www.spriters-resource.com/mobile/arkanoidvsspaceinvaders/sheet/115283/)
 * [背景](https://www.spriters-resource.com/arcade/galagaarrangement/sheet/62554/)
